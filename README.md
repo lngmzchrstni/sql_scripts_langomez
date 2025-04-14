@@ -1,2 +1,2 @@
 # sql_scripts_langomez
-When I work for "Thurston Software Solution Inc." for 5 months, I do learn how to create my own test scripts. Knowing to use or combing diffirent function to validate and verify the data is make my testing easier.
+When I worked at Thurston Software Solutions Inc. for five months, I learned how to create my own test scripts. Knowing how to use and combine different functions in my test scripts made validating and verifying data easier.
