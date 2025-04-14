@@ -17,7 +17,7 @@ CREATE TABLE person_info (
     address_province VARCHAR(50),
     address_postal_code VARCHAR(10),
     address_country VARCHAR(50),
-	PRIMARY KEY(person_id)
+    PRIMARY KEY(person_id)
 );
 
 CREATE TABLE person_occupation (
